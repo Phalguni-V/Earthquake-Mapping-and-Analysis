@@ -1,0 +1,2 @@
+# Earthquake Mapping and Analysis
+ This project charts global earthquake activity from 1970 to 2010 and displays the data in an interactive map. It combines historical data with real-time earthquake data from 2010 to 2024 to visualize earthquake patterns globally. The project aims to help analyze regions' vulnerability to earthquakes, understand their geographical spread, and assess the severity of past earthquakes.
